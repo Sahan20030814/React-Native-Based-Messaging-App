@@ -74,7 +74,7 @@ HeyMan is a high-performance, real-time messaging application built to provide a
    ```
 
 2. **Database Configuration:**
-   - Create a MySQL database named `heyman_db`.
+   - Create a MySQL database named `heyman`.
    - Update your `application.properties` (or equivalent config file) with your MySQL credentials.
 
 3. **Run the Server:**
