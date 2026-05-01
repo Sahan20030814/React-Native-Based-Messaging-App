@@ -95,4 +95,3 @@ HeyMan is a high-performance, real-time messaging application built to provide a
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-```
