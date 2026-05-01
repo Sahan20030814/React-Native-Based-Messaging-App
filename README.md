@@ -88,7 +88,7 @@ HeyMan is a high-performance, real-time messaging application built to provide a
 **Sahan Dilshan** - *Full-Stack Software Engineer | BSc (Hons) Software Engineering Undergraduate at Birmingham City University*
 
 - 🌍 [LinkedIn](https://www.linkedin.com/in/sahan-dilshan-9a586a331)
-- 📧 [Email](sahandilshan3000@gmail.com)
+- 📧 [Email](mailto:sahandilshan3000@gmail.com)
 
 ---
 
