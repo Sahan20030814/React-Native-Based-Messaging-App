@@ -50,7 +50,7 @@ HeyMan is a high-performance, real-time messaging application built to provide a
 
 2. **Navigate to the frontend directory:**
    ```bash
-   cd HeyMan
+   cd HeyMan_ReactNative
    ```
 
 3. **Install dependencies:**
@@ -70,7 +70,7 @@ HeyMan is a high-performance, real-time messaging application built to provide a
 
 1. **Navigate to the backend directory:**
    ```bash
-   cd HeyMan-Backend
+   cd HeyMan_Java
    ```
 
 2. **Database Configuration:**
