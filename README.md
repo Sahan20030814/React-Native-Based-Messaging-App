@@ -1,7 +1,7 @@
 # 💬 HeyMan - Real-time Messaging Application
 
 <p align="center">
-  <img src="logo.png" alt="HeyMan Logo" width="200"/>
+  <img src="HeyMan/HeyMan_ReactNative/HeyMan/assets/logo.png" alt="HeyMan Logo" width="200"/>
 </p>
 
  HeyMan is a high-performance, real-time messaging application built to provide a seamless chatting experience. It features a modern interface, secure authentication, and lightning-fast message delivery using WebSockets.
