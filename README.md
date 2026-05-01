@@ -32,16 +32,6 @@
 
 ---
 
-## 📸 Screenshots
-
-| Login Screen | Chat List | Conversation |
-| :---: | :---: | :---: |
-| <img src="https://via.placeholder.com/200x400?text=Login" width="200"/> | <img src="https://via.placeholder.com/200x400?text=Chat+List" width="200"/> | <img src="https://via.placeholder.com/200x400?text=Chat+View" width="200"/> |
-
-*(Note: Replace placeholders with your actual app screenshots)*
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
